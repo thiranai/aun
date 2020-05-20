@@ -1,0 +1,268 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",PremierHD1
+https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",PremierHD2 
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",PremierHD3 
+https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",PremierHD4 
+https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",PremierHD5 
+https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",PremierHD1BK1    
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",PremierHD2BK1  
+http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",PremierHD3BK1   
+http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",PremierHD4BK1  
+https://tumlive109.dvrdns.org:30443/tumlive/TFBHD4/chunks.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",PremierHD5BK1  
+http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="Sports",PremierHD1BK2       
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="Sports",PremierHD2BK2  
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="Sports",PremierHD3BK2     
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="Sports",PremierHD4BK2  
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="Sports",PremierHD5BK2   
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+#EXTINF:0 group-title="Sports"tvg-logo="https://teevee-hd.com/img/kix.png",720pKIX
+https://tv4.chang55.com:446/live/tot08.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/20200109132203797568789.jpg",TRUESPORT HD1
+https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+https://tv4.chang55.com:446/live2/tv4ch15.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp2.png",560pTRUE SPORT 2
+https://tv4.chang55.com:446/live2/tv4ch83.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport5.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp5.png",560pTRUE SPORT 5
+https://tv4.chang55.com:446/live2/tv4ch84.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport6.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp6.png",560pTRUE SPORT 6
+https://tv4.chang55.com:446/live2/tv4ch85.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport7.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp7.png",560pTRUE SPORT 7
+https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueSport1.th" group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD1BK1
+https://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2BK1
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3BK1
+https://cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4BK1
+https://cdn-laos.workpoint.news/hd-tsport4_720/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp2.png",560pTRUE SPORT 2BK1
+https://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport5.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp5.png",560pTRUE SPORT 5BK1
+https://cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport6.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp6.png",560pTRUE SPORT 6BK1
+https://cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8
+#EXTINF:-1 tvg-id="TrueSport7.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tsp7.png",560pTRUE SPORT 7BK1
+https://cdn-laos.workpoint.news/sd-tsport7_480/index.
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1
+http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2
+http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png",Bein Sport 1BK1
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png",Bein Sport 2BK1
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/nba.png",NBA TV
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="truetennis.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis HD
+https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
+#EXTINF:-1 tvg-id=""group-title="Sports"tvg-logo="https://teevee-hd.com/img/golf.png",Golf Channel
+https://tv4.chang55.com:446/live2/tv4ch08.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="foxsports.th"group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",560pFOX SPORTS HD
+https://tv4.chang55.com:446/live2/tv4ch09.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="foxsport2.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport2.png",560pFOX SPORTS 2 
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsport3.th"group-title="Sports"tvg-logo="https://teevee-hd.com/img/foxsport3.png",560pFOX SPORTS 3 
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/nfl.png",NFL 
+https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/5/56/Real_Madrid_CF.svg/732px-Real_Madrid_CF.svg.png" group-title="Sports",720pREAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?rizkizakaria-Real-Madrid-TVEN-join-telegram=@iptvondemand
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/lfctv.png",560pUK LFC TV
+http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNQGv_3ehrYRwcONHlmcRtoHmfuF-ZQo0ub_9cOdnvUgeqdMz&s" group-title="Sports",RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro1.png",Astro1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro2.png",Astro2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/astro3.png",Astro3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",Skynetsport1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport2.png",Skynetsport2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport3.png",Skynetsport3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport4.png",Skynetsport4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport5.png",Skynetsport5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport6.png",Skynetsport6
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxActionMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION MOVIES
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxFamilyMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxfamily.png",FOX family MOVIES
+https://tv4.chang55.com:446/live/tot10.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES 
+https://tv4.chang55.com:446/live2/tv4ch82.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxthai.png",FOX ไทย 
+https://tv4.chang55.com:446/live/tot14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 
+http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",Truefilm HD 2
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True Thai Film
+http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema",foxpremium_720
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",foxcrimeeng_720
+https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",foxlife_720
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",warnertv_720
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",tfilm_720
+https://cdn-laos.workpoint.news/hd-tfilm_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",tfilm2_720
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
+#EXTINF:-1 group-title="Cinema",starchineselegend_480
+https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
+#EXTINF:-1 group-title="Cinema",celestial_480
+https://cdn-laos.workpoint.news/sd-celestial_480/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True X-zyte 
+https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/universal.png",Universal TH
+https://tv4.chang55.com:446/live2/tv4ch42.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Warner.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/warner.png",WARNER TV
+https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="axn.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/axn.png",AXN 
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_entertainment.png",Blue Ant Entertainment 
+http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/rtl_extreme.png",Blue Ant Extreme
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CCM
+http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
+https://tv4.chang55.com:446/live2/tv4ch32.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOXCRIME
+https://tv4.chang55.com:446/live/tot03.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxThai.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/sonygem.png",GEM
+https://tv4.chang55.com:446/live2/tv4ch50.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
+https://tv4.chang55.com:446/live2/tv4ch47.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://teevee-hd.com/img/trueasian.png",True Asian Series HD
+http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hit
+http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY TH
+https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="historychannel.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/history.png",HISTORY EH
+http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="history2.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+https://tv4.chang55.com:446/live2/tv4ch19.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="trueexploresci.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truesci.png",TRUE EXPLORE SCI
+https://cdn-laos.workpoint.news/sd-expsci_480/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://teevee-hd.com/img/truelife.png",TRUE EXPLORE LIFE
+https://cdn-laos.workpoint.news/sd-explife_480/index.m3u8
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/truewild.png",TRUE EXPLORE WILD
+https://cdn-laos.workpoint.news/sd-expwild_480/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natgeo.png",NAT GEOGRAPHIC 
+https://tv4.chang55.com:446/live/tot05.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD
+https://tv4.chang55.com:446/live/tot06.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="animalplanet.th"group-title="Knowledge"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://tv4.chang55.com:446/live2/tv4ch37.stream/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/animalist-logo.jpg",World Animal
+http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1 group-title="Knowledge",expsci_480
+https://cdn-laos.workpoint.news/sd-expsci_480/index.m3u8
+#EXTINF:-1 group-title="Knowledge",natgeo_720
+https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",natgeowild_720
+https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",natgeopeople_720
+https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",history2_720
+https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",history_720
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",bbcearth_720
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+#EXTINF:-1 group-title="Knowledge",bbclifestyle_720
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://teevee-hd.com/img/aniplus.png",Aniplus
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="https://teevee-hd.com/img/babytv.png",Baby TV
+http://202.183.247.206:9981/stream/channelid/1889318275?ticket=BA0F28565BE4A31CC0B61F345E997F7FCB4F990E&profile=pass
+#EXTINF:-1 group-title="Kids"tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/03/Network_Cartoons_4U-1.jpg",Cartoons 4U
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK 
+https://tv4.chang55.com:446/live2/tv4ch20.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/nickelodeon.png" group-title="Kids",Nickelodeon
+http://kodinew.dyndns.tv:9981/stream/channelid/414376583?ticket=3828CE1DBBF260ADE1F00BAAC37E22A6DBAF6E73&profile=pass
+#EXTINF:-1 tvg-id="DisneyJr.th"group-title="Kids"tvg-logo="https://teevee-hd.com/img/disneyj.png",Disney Junior
+https://tv4.chang55.com:446/live2/tv4ch30.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg",TOM & JERRY
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+
+
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8  
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV6
+http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8  
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV7
+http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV8
+http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV9
+http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV10
+http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV11
+http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV12
+http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV13
+http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV14
+http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8 
+#EXTINF:-1 group-title="Education"tvg-logo="http://www.sakonarea1.go.th/news_pic/p85027611404.jpg",DLTV15
+http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
