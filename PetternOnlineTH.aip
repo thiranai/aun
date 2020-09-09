@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="16.1" version="16.1" Modules="simple" RootPath="." Language="en" Id="{B5A6EEE3-6F7F-4764-B63F-2B94935AE1D9}">
+  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
+    <ROW Name="HiddenItems" Value="AppXProductDetailsComponent;AppXDependenciesComponent;AppXAppDetailsComponent;AppXVisualAssetsComponent;AppXCapabilitiesComponent;AppXAppDeclarationsComponent;AppXUriRulesComponent;DigCertStoreComponent;MsiAssemblyComponent;MsiClassComponent;MsiServInstComponent;MsiExtComponent;TilesComponent;MsiOrgComponent;FixupComponent;MsiThemeComponent;BackgroundImagesComponent;UpdaterComponent;SerValComponent;MsiInstExSeqComponent;DictionaryComponent;MsiAppSearchComponent;MsiOdbcDataSrcComponent;CPLAppletComponent;ActSyncAppComponent;PreReqComponent;WebApplicationsComponent;MsiJavaComponent;MsiDriverPackagesComponent;UserAccountsComponent;ScheduledTasksComponent;SqlConnectionComponent;AutorunComponent;FirewallExceptionComponent;GameUxComponent;MsiDirectEditorComponent;SharePointSlnComponent;SilverlightSlnComponent;MultipleInstancesComponent;SccmComponent;ActSyncAppComponent"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPPRODUCTICON" Value="icon.exe" Type="8"/>
+    <ROW Property="CTRLS" Value="2"/>
+    <ROW Property="Manufacturer" Value="PetternOnlineTH Company"/>
+    <ROW Property="ProductCode" Value="1033:{CDC81DEE-B880-4103-8824-CD6F9B8E6688} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="PetternOnlineTH"/>
+    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="RUNAPPLICATION" Value="1" Type="4"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{EC4F4C59-D9BD-4192-8DEA-5BFE51D2A798}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50Display" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5X" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5XDisplay" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="DesktopFolder" Directory_Parent="TARGETDIR" DefaultDir="DESKTO~1|DesktopFolder" IsPseudoRoot="1"/>
+    <ROW Directory="SHORTCUTDIR" Directory_Parent="TARGETDIR" DefaultDir="SHORTC~1|SHORTCUTDIR" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="APPDIR" ComponentId="{E4E95880-80D0-4764-9590-11E3467D826A}" Directory_="APPDIR" Attributes="0"/>
+    <ROW Component="BouncyCastle.Crypto.dll" ComponentId="{CDE22A19-2C36-4D45-8097-C944486C6A98}" Directory_="APPDIR" Attributes="0" KeyPath="BouncyCastle.Crypto.dll"/>
+    <ROW Component="Google.Protobuf.dll" ComponentId="{96B7FB75-479D-4F35-A2CC-2801C8B19EDC}" Directory_="APPDIR" Attributes="0" KeyPath="Google.Protobuf.dll"/>
+    <ROW Component="MetroFramework.Design.dll" ComponentId="{304F8B72-E95B-4059-A8C4-7E6302D1861A}" Directory_="APPDIR" Attributes="0" KeyPath="MetroFramework.Design.dll"/>
+    <ROW Component="MetroFramework.Fonts.dll" ComponentId="{9C58AF69-4A60-41CB-8B98-F76D65C8286C}" Directory_="APPDIR" Attributes="0" KeyPath="MetroFramework.Fonts.dll"/>
+    <ROW Component="MetroFramework.dll" ComponentId="{27C08314-19D6-4360-9010-EF96B3B1D05E}" Directory_="APPDIR" Attributes="0" KeyPath="MetroFramework.dll"/>
+    <ROW Component="Microsoft.CSharp.dll" ComponentId="{ECFD5B9C-78D2-4265-86B3-03111C0C6506}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.CSharp.dll"/>
+    <ROW Component="Microsoft.ReportViewer.WinForms.dll" ComponentId="{5B28B4AD-9305-4DD7-AFA5-620106346FD3}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW Component="Microsoft.SqlServer.Types.dll" ComponentId="{89AE69B9-459A-438F-923A-38D3736B4579}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.SqlServer.Types.dll"/>
+    <ROW Component="MySQL.Data.EntityFrameworkCore.Design.dll" ComponentId="{FDD4E87A-0862-4345-A5A2-B54DF3F76550}" Directory_="APPDIR" Attributes="0" KeyPath="MySQL.Data.EntityFrameworkCore.Design.dll"/>
+    <ROW Component="MySQL.Data.EntityFrameworkCore.dll" ComponentId="{D5EA0B8B-AB7B-458D-9DAE-A21DC1E73D49}" Directory_="APPDIR" Attributes="0" KeyPath="MySQL.Data.EntityFrameworkCore.dll"/>
+    <ROW Component="MySql.Data.EntityFramework.dll" ComponentId="{41560489-86FE-458D-8325-4781F4F763D2}" Directory_="APPDIR" Attributes="0" KeyPath="MySql.Data.EntityFramework.dll"/>
+    <ROW Component="MySql.Data.dll" ComponentId="{CFF5810D-3F3A-4EC7-B95B-8A545AD26587}" Directory_="APPDIR" Attributes="0" KeyPath="MySql.Data.dll"/>
+    <ROW Component="MySql.Web.dll" ComponentId="{2BF6EEC4-0775-47DD-BB46-D617BD3A0A1B}" Directory_="APPDIR" Attributes="0" KeyPath="MySql.Web.dll"/>
+    <ROW Component="PatternBacarat.exe" ComponentId="{B750CE1D-DA13-48A2-B20D-818FF5A41053}" Directory_="APPDIR" Attributes="0" KeyPath="PatternBacarat.exe"/>
+    <ROW Component="PatternBacarat.exe.config" ComponentId="{C7549649-D4AE-4514-8EC8-CFCED747F643}" Directory_="APPDIR" Attributes="0" KeyPath="PatternBacarat.exe.config" Type="0"/>
+    <ROW Component="ProductInformation" ComponentId="{400BEDC6-53E1-429B-A5C9-B6FFDB66CBA5}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="Renci.SshNet.dll" ComponentId="{80F7B037-AE5D-42FB-8632-368B42043B35}" Directory_="APPDIR" Attributes="0" KeyPath="Renci.SshNet.dll"/>
+    <ROW Component="SHORTCUTDIR" ComponentId="{ECEA4691-514D-43FE-8EE6-245571724EB8}" Directory_="SHORTCUTDIR" Attributes="0"/>
+    <ROW Component="SshNet.Security.Cryptography.dll" ComponentId="{9FA3A721-920F-49C9-82D2-D74C16188ACD}" Directory_="APPDIR" Attributes="0" KeyPath="SshNet.Security.Cryptography.dll"/>
+    <ROW Component="System.Core.dll" ComponentId="{5D4AE7FC-9B98-4162-99BF-AA1B1570071B}" Directory_="APPDIR" Attributes="0" KeyPath="System.Core.dll"/>
+    <ROW Component="System.Data.DataSetExtensions.dll" ComponentId="{AA0FCFC5-1FB2-4818-BE87-9C2FA94AC39C}" Directory_="APPDIR" Attributes="0" KeyPath="System.Data.DataSetExtensions.dll"/>
+    <ROW Component="System.Data.dll" ComponentId="{24A60C0F-7E40-409C-A433-1C3200C0912A}" Directory_="APPDIR" Attributes="0" KeyPath="System.Data.dll"/>
+    <ROW Component="System.Deployment.dll" ComponentId="{D2E04FA5-16AD-44DF-8F7B-6086CA3A6D2A}" Directory_="APPDIR" Attributes="0" KeyPath="System.Deployment.dll"/>
+    <ROW Component="System.Drawing.dll" ComponentId="{2DE6AE43-C7F5-4FF6-A9EB-BD5FBDC110DA}" Directory_="APPDIR" Attributes="0" KeyPath="System.Drawing.dll"/>
+    <ROW Component="System.Net.Http.dll" ComponentId="{1665C359-9BAA-4C40-B3DD-A9EA8EBCAF43}" Directory_="APPDIR" Attributes="0" KeyPath="System.Net.Http.dll"/>
+    <ROW Component="System.Windows.Forms.dll" ComponentId="{1D59BE02-DEE9-404E-B91C-C693B78B574E}" Directory_="APPDIR" Attributes="0" KeyPath="System.Windows.Forms.dll"/>
+    <ROW Component="System.Xml.Linq.dll" ComponentId="{64E83FC6-136B-4CF0-898A-2B615606234E}" Directory_="APPDIR" Attributes="0" KeyPath="System.Xml.Linq.dll"/>
+    <ROW Component="System.Xml.dll" ComponentId="{27C0E2DD-427E-4216-86A5-63EECFA38AB4}" Directory_="APPDIR" Attributes="0" KeyPath="System.Xml.dll"/>
+    <ROW Component="System.dll" ComponentId="{49F5677E-1B7B-4B4E-BE25-7B979E72F519}" Directory_="APPDIR" Attributes="0" KeyPath="System.dll"/>
+    <ROW Component="mscorlib.dll" ComponentId="{0C0C907F-5F22-44FC-BECD-4A49E4304A37}" Directory_="APPDIR" Attributes="0" KeyPath="mscorlib.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="MetroFramework.Fonts.dll" Component_="MetroFramework.Fonts.dll" FileName="METROF~1.DLL|MetroFramework.Fonts.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\MetroFramework.Fonts.dll" SelfReg="false"/>
+    <ROW File="PatternBacarat.exe" Component_="PatternBacarat.exe" FileName="PATTER~1.EXE|PatternBacarat.exe" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\PatternBacarat.exe" SelfReg="false" DigSign="true"/>
+    <ROW File="SshNet.Security.Cryptography.dll" Component_="SshNet.Security.Cryptography.dll" FileName="SSHNET~1.DLL|SshNet.Security.Cryptography.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\SshNet.Security.Cryptography.dll" SelfReg="false"/>
+    <ROW File="PatternBacarat.exe.config" Component_="PatternBacarat.exe.config" FileName="PATTER~1.CON|PatternBacarat.exe.config" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\PatternBacarat.exe.config" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.WinForms.dll" Component_="Microsoft.ReportViewer.WinForms.dll" FileName="MICROS~1.DLL|Microsoft.ReportViewer.WinForms.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\Microsoft.ReportViewer.WinForms.dll" SelfReg="false"/>
+    <ROW File="MetroFramework.dll" Component_="MetroFramework.dll" FileName="METROF~2.DLL|MetroFramework.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\MetroFramework.dll" SelfReg="false"/>
+    <ROW File="BouncyCastle.Crypto.dll" Component_="BouncyCastle.Crypto.dll" FileName="BOUNCY~1.DLL|BouncyCastle.Crypto.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\BouncyCastle.Crypto.dll" SelfReg="false"/>
+    <ROW File="Microsoft.CSharp.dll" Component_="Microsoft.CSharp.dll" FileName="MICROS~2.DLL|Microsoft.CSharp.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll" SelfReg="false"/>
+    <ROW File="Google.Protobuf.dll" Component_="Google.Protobuf.dll" FileName="GOOGLE~1.DLL|Google.Protobuf.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\Google.Protobuf.dll" SelfReg="false"/>
+    <ROW File="MetroFramework.Design.dll" Component_="MetroFramework.Design.dll" FileName="METROF~3.DLL|MetroFramework.Design.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\MetroFramework.Design.dll" SelfReg="false"/>
+    <ROW File="Microsoft.SqlServer.Types.dll" Component_="Microsoft.SqlServer.Types.dll" FileName="MICROS~3.DLL|Microsoft.SqlServer.Types.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\PatternBacarat\bin\Debug\Microsoft.SqlServer.Types.dll" SelfReg="false"/>
+    <ROW File="mscorlib.dll" Component_="mscorlib.dll" FileName="mscorlib.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" SelfReg="false"/>
+    <ROW File="MySql.Data.dll" Component_="MySql.Data.dll" FileName="MYSQLD~1.DLL|MySql.Data.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\MySql.Data.dll" SelfReg="false"/>
+    <ROW File="MySql.Data.EntityFramework.dll" Component_="MySql.Data.EntityFramework.dll" FileName="MYSQLD~2.DLL|MySql.Data.EntityFramework.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\MySql.Data.EntityFramework.dll" SelfReg="false"/>
+    <ROW File="MySQL.Data.EntityFrameworkCore.Design.dll" Component_="MySQL.Data.EntityFrameworkCore.Design.dll" FileName="MYSQLD~3.DLL|MySQL.Data.EntityFrameworkCore.Design.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\MySQL.Data.EntityFrameworkCore.Design.dll" SelfReg="false"/>
+    <ROW File="MySQL.Data.EntityFrameworkCore.dll" Component_="MySQL.Data.EntityFrameworkCore.dll" FileName="MYSQLD~4.DLL|MySQL.Data.EntityFrameworkCore.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\MySQL.Data.EntityFrameworkCore.dll" SelfReg="false"/>
+    <ROW File="System.dll" Component_="System.dll" FileName="System.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" SelfReg="false"/>
+    <ROW File="System.Data.DataSetExtensions.dll" Component_="System.Data.DataSetExtensions.dll" FileName="SYSTEM~1.DLL|System.Data.DataSetExtensions.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll" SelfReg="false"/>
+    <ROW File="MySql.Web.dll" Component_="MySql.Web.dll" FileName="MYSQLW~1.DLL|MySql.Web.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\MySql.Web.dll" SelfReg="false"/>
+    <ROW File="Renci.SshNet.dll" Component_="Renci.SshNet.dll" FileName="RENCIS~1.DLL|Renci.SshNet.dll" Attributes="0" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\v4.5.2\Renci.SshNet.dll" SelfReg="false"/>
+    <ROW File="System.Core.dll" Component_="System.Core.dll" FileName="SYSTEM~2.DLL|System.Core.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll" SelfReg="false"/>
+    <ROW File="System.Data.dll" Component_="System.Data.dll" FileName="SYSTEM~3.DLL|System.Data.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" SelfReg="false"/>
+    <ROW File="System.Deployment.dll" Component_="System.Deployment.dll" FileName="SYSTEM~4.DLL|System.Deployment.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Deployment.dll" SelfReg="false"/>
+    <ROW File="System.Drawing.dll" Component_="System.Drawing.dll" FileName="SYSTEM~5.DLL|System.Drawing.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" SelfReg="false"/>
+    <ROW File="System.Net.Http.dll" Component_="System.Net.Http.dll" FileName="SYSTEM~6.DLL|System.Net.Http.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll" SelfReg="false"/>
+    <ROW File="System.Windows.Forms.dll" Component_="System.Windows.Forms.dll" FileName="SYSTEM~7.DLL|System.Windows.Forms.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" SelfReg="false"/>
+    <ROW File="System.Xml.dll" Component_="System.Xml.dll" FileName="SYSTEM~8.DLL|System.Xml.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" SelfReg="false"/>
+    <ROW File="System.Xml.Linq.dll" Component_="System.Xml.Linq.dll" FileName="SYSTEM~9.DLL|System.Xml.Linq.dll" Attributes="0" SourcePath="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll" SelfReg="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
+    <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFolder="." Languages="en" InstallationType="4" UseLargeSchema="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCreateFolderComponent">
+    <ROW Directory_="APPDIR" Component_="APPDIR" ManualDelete="true"/>
+    <ROW Directory_="SHORTCUTDIR" Component_="SHORTCUTDIR" ManualDelete="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_EnableDebugLog" Type="321" Source="aicustact.dll" Target="EnableDebugLog"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_LaunchApp" Type="1" Source="aicustact.dll" Target="[#PatternBacarat.exe]"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatCompsComponent">
+    <ROW Feature_="MainFeature" Component_="APPDIR"/>
+    <ROW Feature_="MainFeature" Component_="ProductInformation"/>
+    <ROW Feature_="MainFeature" Component_="MetroFramework.Fonts.dll"/>
+    <ROW Feature_="MainFeature" Component_="PatternBacarat.exe"/>
+    <ROW Feature_="MainFeature" Component_="SshNet.Security.Cryptography.dll"/>
+    <ROW Feature_="MainFeature" Component_="PatternBacarat.exe.config"/>
+    <ROW Feature_="MainFeature" Component_="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW Feature_="MainFeature" Component_="MetroFramework.dll"/>
+    <ROW Feature_="MainFeature" Component_="BouncyCastle.Crypto.dll"/>
+    <ROW Feature_="MainFeature" Component_="Microsoft.CSharp.dll"/>
+    <ROW Feature_="MainFeature" Component_="Google.Protobuf.dll"/>
+    <ROW Feature_="MainFeature" Component_="MetroFramework.Design.dll"/>
+    <ROW Feature_="MainFeature" Component_="Microsoft.SqlServer.Types.dll"/>
+    <ROW Feature_="MainFeature" Component_="mscorlib.dll"/>
+    <ROW Feature_="MainFeature" Component_="MySql.Data.dll"/>
+    <ROW Feature_="MainFeature" Component_="MySql.Data.EntityFramework.dll"/>
+    <ROW Feature_="MainFeature" Component_="MySQL.Data.EntityFrameworkCore.Design.dll"/>
+    <ROW Feature_="MainFeature" Component_="MySQL.Data.EntityFrameworkCore.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Data.DataSetExtensions.dll"/>
+    <ROW Feature_="MainFeature" Component_="MySql.Web.dll"/>
+    <ROW Feature_="MainFeature" Component_="Renci.SshNet.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Core.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Data.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Deployment.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Drawing.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Net.Http.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Windows.Forms.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Xml.dll"/>
+    <ROW Feature_="MainFeature" Component_="System.Xml.Linq.dll"/>
+    <ROW Feature_="MainFeature" Component_="SHORTCUTDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="icon.exe" SourcePath="โปรแกรมมั่วแพทเทิ้ล All In One ใช้จริงอย่าลืมก็อปมาวางก่อนบิล\img\icon.ico" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="53"/>
+    <ROW Action="AI_DpiContentScale" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 500)" Description="[ProductName] cannot be installed on [WindowsTypeNT50Display]." DescriptionLocId="AI.LaunchCondition.NoNT50" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT64 OR ((VersionNT &lt;&gt; 501) OR (ServicePackLevel = 3))) AND ((VersionNT &lt;&gt; 502) OR (ServicePackLevel = 2))" Description="[ProductName] cannot be installed on [WindowsTypeNT5XDisplay]." DescriptionLocId="AI.LaunchCondition.NoNT5X" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="PetternOnlineTH" Directory_="SHORTCUTDIR" Name="PETTER~1|PetternOnlineTH" Component_="PatternBacarat.exe" Target="[#PatternBacarat.exe]" Description="PetternOnlineTH" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="PetternOnlineTH_1" Directory_="DesktopFolder" Name="PETTER~1|PetternOnlineTH" Component_="PatternBacarat.exe" Target="[#PatternBacarat.exe]" Description="PetternOnlineTH" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+</DOCUMENT>
