@@ -7,7 +7,7 @@
     {
             "channel_id": 1,
             "channel_order": 1,
-            "channel_name": "02_PremierHD1_720p",
+            "channel_name": "02 PremierHD1 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"
@@ -15,7 +15,7 @@
     {
             "channel_id": 2,
             "channel_order": 2,
-            "channel_name": "02_PremierHD2_720p",
+            "channel_name": "02 PremierHD2 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8"
@@ -23,7 +23,7 @@
     {
             "channel_id": 3,
             "channel_order": 3,
-            "channel_name": "02_PremierHD3_720p",
+            "channel_name": "02 PremierHD3 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"
@@ -31,7 +31,7 @@
     {
             "channel_id": 4,
             "channel_order": 4,
-            "channel_name": "02_PremierHD4_720p",
+            "channel_name": "02 PremierHD4 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8"
@@ -39,7 +39,7 @@
     {
             "channel_id": 5,
             "channel_order": 5,
-            "channel_name": "02_2sporthd1_720p",
+            "channel_name": "02 2sporthd1 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8"
@@ -47,7 +47,7 @@
     {
             "channel_id": 6,
             "channel_order": 6,
-            "channel_name": "02_2sporthd2_720p",
+            "channel_name": "02 2sporthd2 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8"
@@ -55,7 +55,7 @@
     {
         	"channel_id": 7,
         	"channel_order": 7,
-            "channel_name": "02_2sporthd3_720p",
+            "channel_name": "02 2sporthd3 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8"
@@ -63,7 +63,7 @@
 	{
             "channel_id": 8,
             "channel_order": 8,
-            "channel_name": "02_2sporthd4_720p",
+            "channel_name": "02 2sporthd4 720p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8"
@@ -71,7 +71,7 @@
     {
             "channel_id": 9,
             "channel_order": 9,
-            "channel_name": "02_FoxSport3_TH_720p",
+            "channel_name": "02 FoxSport3 TH720p",
             "channel_category": "sports",
             "channel_description": "https://sv3.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
             "channel_url" : ""
@@ -79,7 +79,7 @@
     {
             "channel_id": 10,
             "channel_order": 10,
-            "channel_name": "02_FoxSport3_TH_720p",
+            "channel_name": "02 FoxSport3 TH720p",
             "channel_category": "sports",
             "channel_description": "https://sv3.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
             "channel_url" : ""
@@ -87,7 +87,7 @@
     {
             "channel_id": 11,
             "channel_order": 11,
-            "channel_name": "02_FoxSport3_TH_720p",
+            "channel_name": "02 FoxSport3 TH720p",
             "channel_category": "sports",
             "channel_description": "https://sv3.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
             "channel_url" : ""
@@ -95,7 +95,7 @@
     {
             "channel_id": 12,
             "channel_order": 12,
-            "channel_name": "02_sport2_480p",
+            "channel_name": "02 sport2 480p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_sport2_480p/chunklist.m3u8"
@@ -103,7 +103,7 @@
     {
             "channel_id": 13,
             "channel_order": 13,
-            "channel_name": "02_sport5_480p",
+            "channel_name": "02 sport5 480p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_sport5_480p/chunklist.m3u8"
@@ -111,7 +111,7 @@
     {
             "channel_id": 14,
             "channel_order": 14,
-            "channel_name": "02_sport6_480p",
+            "channel_name": "02 sport6 480p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_sport6_480p/chunklist.m3u8"
@@ -119,7 +119,7 @@
     {
             "channel_id": 15,
             "channel_order": 15,
-            "channel_name": "02_sport7_480p",
+            "channel_name": "02 sport7 480p",
             "channel_category": "sports",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_sport7_480p/chunklist.m3u8"
@@ -127,7 +127,7 @@
     {
             "channel_id": 16,
             "channel_order": 16,
-            "channel_name": "02_DiscoveryHDWorld",
+            "channel_name": "02 DiscoveryHDWorld",
             "channel_category": "Discovery",
             "channel_description": "",
             "channel_url" : "https://sv3.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8"
@@ -135,7 +135,7 @@
 	{
             "channel_id": 17,
             "channel_order": 17,
-            "channel_name": "02_HISTORYHD_720p",
+            "channel_name": "02 HISTORYHD 720p",
             "channel_category": "Discovery",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8"
@@ -143,7 +143,7 @@
 	{
             "channel_id": 18,
             "channel_order": 18,
-            "channel_name": "02_H2HD_720p",
+            "channel_name": "02 H2HD 720p",
             "channel_category": "Discovery",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_H2HD_720p/chunklist.m3u8"
@@ -151,7 +151,7 @@
 	{
             "channel_id": 19,
             "channel_order": 19,
-            "channel_name": "03_skynetsport1_480p",
+            "channel_name": "03 skynetsport1 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8"
@@ -159,7 +159,7 @@
 	{
             "channel_id": 20,
             "channel_order": 20,
-            "channel_name": "03_skynetsport2_480p",
+            "channel_name": "03 skynetsport2 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8"
@@ -167,7 +167,7 @@
 	{
             "channel_id": 21,
             "channel_order": 21,
-            "channel_name": "03_skynetsport3_480p",
+            "channel_name": "03 skynetsport3 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8"
@@ -175,7 +175,7 @@
 	{
             "channel_id": 22,
             "channel_order": 22,
-            "channel_name": "03_skynetsport4_480p",
+            "channel_name": "03 skynetsport4 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8"
@@ -183,7 +183,7 @@
 	{
             "channel_id": 23,
             "channel_order": 23,
-            "channel_name": "03_skynetsport5_480p",
+            "channel_name": "03 skynetsport5 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8"
@@ -191,7 +191,7 @@
 	{
             "channel_id": 24,
             "channel_order": 24,
-            "channel_name": "03_skynetsport6_480p",
+            "channel_name": "03 skynetsport6 480p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8"
@@ -199,7 +199,7 @@
 	{
             "channel_id": 25,
             "channel_order": 25,
-            "channel_name": "02_SPORTTV_1_720p",
+            "channel_name": "02 SPORTTV1 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8"
@@ -207,7 +207,7 @@
 	{
             "channel_id": 26,
             "channel_order": 26,
-            "channel_name": "02_SPORTTV_2_720p",
+            "channel_name": "02 SPORTTV2 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8"
@@ -215,7 +215,7 @@
 	{
             "channel_id": 27,
             "channel_order": 27,
-            "channel_name": "02_SPORTTV_3_720p",
+            "channel_name": "02 SPORTTV3 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8"
@@ -223,7 +223,7 @@
 	{
             "channel_id": 28,
             "channel_order": 28,
-            "channel_name": "02_SPORTTV_4_720p",
+            "channel_name": "02 SPORTTV4 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8"
@@ -231,7 +231,7 @@
 	{
             "channel_id": 29,
             "channel_order": 29,
-            "channel_name": "02_SPORTTV_5_720p",
+            "channel_name": "02 SPORTTV5 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
@@ -239,7 +239,7 @@
 	{
             "channel_id": 30,
             "channel_order": 30,
-            "channel_name": "02_BTSPORTHD_1_720p",
+            "channel_name": "02 BTSPORTHD1 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8"
@@ -247,7 +247,7 @@
 	{
             "channel_id": 31,
             "channel_order": 31,
-            "channel_name": "02_BTSPORTHD_2_720p",
+            "channel_name": "02 BTSPORTHD2 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8"
@@ -255,7 +255,7 @@
     {
             "channel_id": 32,
             "channel_order": 32,
-            "channel_name": "02_EUROHD1_720p",
+            "channel_name": "02 EUROHD1 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8"
@@ -263,7 +263,7 @@
     {
             "channel_id": 33,
             "channel_order": 33,
-            "channel_name": "02_EUROHD2_720p",
+            "channel_name": "02 EUROHD2 720p",
             "channel_category": "sport",
             "channel_description": "",
             "channel_url": "https://sv3.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8"
